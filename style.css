@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: "font1";
-  src: url(/assets/NotoSans-Bold.ttf);
+  src: url(./assets/NotoSans-Bold.ttf);
 }
 h1 {
   color: blue;
